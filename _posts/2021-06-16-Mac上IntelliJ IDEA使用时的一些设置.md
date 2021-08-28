@@ -72,3 +72,45 @@ View -> Appearance -> Status Bar Widgets -> Memory Indicator
 
 ![](https://gitee.com/luckyfor7/images/raw/master/img/000000.png)
 
+
+
+
+
+
+
+---
+
+## 已安装插件
+
+### Rainbow Brackets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -118,11 +118,11 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   # 首页
-  home: /
+  home: /archives/
   # 分类
-  #categories: /categories/
+  categories: /categories/
   # 关于
-  #about: /about/
+  about: /about/
   # 归档
   archives: /archives/
   # 标签
@@ -159,9 +159,9 @@ menu_icons:
 # 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
 #scheme: Muse
 # Muse 的紧凑版本，整洁有序的单栏外观
-scheme: Mist
+#scheme: Mist
 # 双栏 Scheme，小家碧玉似的清新
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------

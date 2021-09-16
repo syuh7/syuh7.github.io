@@ -157,11 +157,11 @@ menu_icons:
 
 # Schemes
 # 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白
-#scheme: Muse
+scheme: Muse
 # Muse 的紧凑版本，整洁有序的单栏外观
 #scheme: Mist
 # 双栏 Scheme，小家碧玉似的清新
-scheme: Pisces
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -415,7 +415,7 @@ wildfire:
     siteId:
   # other configs
   theme: light # or dark
-  locale: en # or other locales, e.g. zh-CN
+  locale: zh-CN # en or other locales, e.g. zh-CN
   defaultAvatarURL: 
 # Any question? 
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues

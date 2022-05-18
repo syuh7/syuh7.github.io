@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   # 首页
-  home: /archives/
+  home: /
   # 分类
   categories: /categories/
   # 关于
@@ -242,7 +242,9 @@ social_icons:
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 #avatar: https://gitee.com/luckyfor7/images/raw/master/img/duebass.jpg
-avatar: https://gitee.com/luckyfor7/images/raw/master/img/syuh7.JPG
+#avatar: https://gitee.com/luckyfor7/images/raw/master/img/syuh7.JPG
+# https://imgtu.com/i/O7RLBd
+avatar: https://s1.ax1x.com/2022/05/19/O7RLBd.jpg
 
 # Table Of Contents in the Sidebar
 toc:

@@ -6,7 +6,7 @@
 # Site
 title: 山与海
 subtitle: 优雅永不过时
-description: 隔山和海会归来
+description: 隔山隔海会归来
 author: kai
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -41,7 +41,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 ## 'pygments' is unsupported on GitHub Pages now.
 highlighter: rouge
 highlight:
-  line_number: true
+  line_number: false
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
@@ -251,7 +251,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "centOS 防火墙相关命令"
+title: "centOS Firewall"
 date: 2021-09-09 16:00:00 +0800
 categories: centOS
 ---
